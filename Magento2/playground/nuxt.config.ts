@@ -1,6 +1,7 @@
-import vsfModule from './vsfModule'
+import vsfModule from './app/modules/vsfModule'
 
 export default defineNuxtConfig({
+  compatibilityDate:'2025-05-17',
   modules: [
     '@nuxtjs/tailwindcss',
     '@vue-storefront/nuxt',

@@ -12,6 +12,7 @@
   "dependencies": {
     "@types/cors": "^2.8.17",
     "@vue-storefront/integration-boilerplate-api": "*",
+    "@vue-storefront/magento-api": "^6.3.0",
     "@vue-storefront/middleware": "^3.9.0",
     "cors": "^2.8.5",
     "nodemon": "^3.1.0",
